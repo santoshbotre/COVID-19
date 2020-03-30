@@ -18,10 +18,11 @@ This application will show the World wide COVID cases status.
 * [Novel Covid](https://github.com/novelcovid/api) - API for Current cases and more stuff about COVID-19 or the [Novel Coronavirus Strain](https://corona.lmao.ninja/)
 
 # Screenshots
-| Screen Name | Screenshot |
+| Scree  | Screenshot |
 | --- | --- |
 | Home | ![HOME](https://github.com/santoshbotre/COVID-19/blob/master/screenshots/Home.png) |
 | Menu | ![MENU](https://github.com/santoshbotre/COVID-19/blob/master/screenshots/Menu.png) |
 | Countries | ![COUNTRY LIST](https://github.com/santoshbotre/COVID-19/blob/master/screenshots/CountryWiseStatus.png) |
 | Country Details | ![DETAILS](https://github.com/santoshbotre/COVID-19/blob/master/screenshots/CountryDetails.png) |
 | About COVID-19 | ![COVID-19](https://github.com/santoshbotre/COVID-19/blob/master/screenshots/AboutCovid-19.png) |
+| What You Can Do | ![WhatYouCanDo](https://github.com/santoshbotre/COVID-19/blob/master/screenshots/WhatYouCanDo.png) |
